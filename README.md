@@ -1,8 +1,27 @@
-# React + Vite
+# Internship Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+This repository showcases the J-WIRES Sustainability Project, a website developed during my internship. Created using React with Vite as the build tool, the project focuses on empowering women in Dobhi, Bihar, and implementing sustainable solutions for a positive impact on the environment.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Installation
+To get started with the project, follow these simple steps:
+
+1. Clone the repository: `git clone https://github.com/Itsamanjain/internship-jwires.in`
+2. Navigate to the project directory: `cd internship-jwires.in`
+3. Install dependencies: `npm install`
+
+## Usage
+After installation, you can run the project using the following command:
+
+```bash
+npm run dev
+```
+
+
+
+This will start the development server, and you can view the project in your browser at `http://localhost:3000`.
